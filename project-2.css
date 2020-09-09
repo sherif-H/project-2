@@ -1,0 +1,94 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+
+body
+{
+    background-image: url(background3.webp);
+    font-family: sans-serif;
+        
+}
+.log-box
+{
+    width: 300px;
+    padding: 10px;
+    margin:  8% auto ;
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.3) ;
+    border:1px solid ;
+    text-align: center;
+    background: white;
+    border-radius: 5px;
+}
+.fa 
+{
+    widows: 20px;
+    color: aqua;
+    padding: -30px;
+    margin: -30px;;
+}
+img 
+
+{
+    width: 50px;
+    margin-top: -50px;
+}
+.h1
+{
+    color: blue;
+}
+.input2 ,  .input1
+{
+    margin: 5px;
+    width: 80%;
+    border-radius: 20px;
+    padding: 3px;
+    border: 1px solid #DDD;
+
+}
+.checkbox
+{
+    margin: 0px;
+}
+.hr
+{
+    margin-top: 20px;
+    width: 200px;
+}
+.or
+{
+    background: #FFF;
+    width: 20px;
+    margin: -18px auto 10px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+button 
+{
+    width: 60%;
+    border-radius: 20px;
+    border: 1px solid #DDD;
+    font-size: 15px;
+    padding: 3px;
+        cursor: pointer;
+
+        
+}
+.bt1
+{
+    background-color: cadetblue;
+        margin: 10px;
+    color: white;
+        cursor: pointer;
+
+
+}
+.bt2
+{
+    background-color:deepskyblue;
+    margin: 10px;
+    color: wheat;
+        cursor: pointer;
+
+}
+p
+{
+    font-size: 10px;
+}
